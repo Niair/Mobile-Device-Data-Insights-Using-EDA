@@ -31,8 +31,6 @@ A comprehensive analysis of mobile phone specifications and pricing trends. This
 ### **Feature Correlation Matrix**  
 ![Correlation](reports/feature_correlation_heatmap.png)  
 
-![image](reports/figure_367.html)  
-
 ---
 
 ## 🛠️ Technical Implementation  

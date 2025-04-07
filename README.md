@@ -1,7 +1,3 @@
-Here’s a polished README.md tailored for your **Mobile Phone EDA Project**, structured similarly to your IPL Dashboard example but adapted for exploratory data analysis:
-
----
-
 # 📱 Mobile Phone Data Analysis Dashboard  
 **An Exploratory Data Analysis (EDA) Project**  
 
@@ -95,7 +91,3 @@ mobile_phone_eda_project/
    pip install -r requirements.txt  
    ```  
 3. Run Jupyter notebooks in `/notebooks` to reproduce the analysis.  
-
---- 
-
-Let me know if you’d like to refine any section! 🚀

@@ -25,15 +25,13 @@ A comprehensive analysis of mobile phone specifications and pricing trends. This
 ### **Brand Distribution**  
 ![Brand Distribution](reports/brand_distribution.png) 
 
-![Brand Distribution](reports/brand_distribution_pie.png) 
-
-### **Price vs. RAM Analysis**  
-![Price vs RAM](https://via.placeholder.com/400x250)  
-*Scatter plot comparing price and RAM capacity.*  
+### **Processor Brand Dominance**  
+![Price vs RAM](reports/processor_brand_distribution.png)  
 
 ### **Feature Correlation Matrix**  
-![Correlation](https://via.placeholder.com/400x250)  
-*Heatmap showing relationships between price, battery, RAM, etc.*  
+![Correlation](reports/feature_correlation_heatmap.png)  
+
+![image](reports/figure_367.html)  
 
 ---
 

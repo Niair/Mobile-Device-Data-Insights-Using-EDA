@@ -31,19 +31,18 @@ A comprehensive analysis of mobile phone specifications and pricing trends. This
 ### **Feature Correlation Matrix**  
 ![Correlation](reports/feature_correlation_heatmap.png)  
 
-### Brand Distribution (Interactive Plot)
-### 📊 Interactive Visualizations
+### Interactive Visualizations
 
 - [Figure 349](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_349.html)
-- [Figure 351](https://nihal123.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_351.html)
-- [Figure 353](https://nihal123.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_353.html)
-- [Figure 355](https://nihal123.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_355.html)
-- [Figure 357](https://nihal123.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_357.html)
-- [Figure 359](https://nihal123.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_359.html)
-
-
-
-
+- [Figure 351](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_351.html)
+- [Figure 353](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_353.html)
+- [Figure 355](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_355.html)
+- [Figure 357](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_357.html)
+- [Figure 359](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_359.html)
+- [Figure 353](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_361.html)
+- [Figure 355](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_363.html)
+- [Figure 357](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_365.html)
+- [Figure 359](https://Niair.github.io/Mobile-Device-Data-Insights-Using-EDA/figure_367.html)
 
 ---
 

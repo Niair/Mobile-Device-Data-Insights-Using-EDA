@@ -14,8 +14,8 @@ A comprehensive analysis of mobile phone specifications and pricing trends. This
 ---
 
 ## 🎥 Project Demo  
-*(Replace with a GIF/video link later)*  
-[Watch Demo Video](reports/Docs 2025-04-07 20-49-47 (1) (1).mp4)
+[Watch Demo Video](reports/Docs%202025-04-07%2020-49-47%20(1)%20(1).mp4)
+
 
 
 ---

@@ -31,6 +31,10 @@ A comprehensive analysis of mobile phone specifications and pricing trends. This
 ### **Feature Correlation Matrix**  
 ![Correlation](reports/feature_correlation_heatmap.png)  
 
+### Brand Distribution (Static Image)
+![Brand Distribution](reports/figure_367.png)
+
+
 ---
 
 ## 🛠️ Technical Implementation  

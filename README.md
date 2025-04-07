@@ -23,8 +23,9 @@ A comprehensive analysis of mobile phone specifications and pricing trends. This
 ## 📸 Key Visualizations  
 
 ### **Brand Distribution**  
-![Brand Distribution](reports/brand_distribution.png)  
-*Top brands by market presence (e.g., Samsung, OnePlus).*  
+![Brand Distribution](reports/brand_distribution.png) 
+
+![Brand Distribution](reports/brand_distribution_pie.png) 
 
 ### **Price vs. RAM Analysis**  
 ![Price vs RAM](https://via.placeholder.com/400x250)  

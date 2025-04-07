@@ -31,8 +31,9 @@ A comprehensive analysis of mobile phone specifications and pricing trends. This
 ### **Feature Correlation Matrix**  
 ![Correlation](reports/feature_correlation_heatmap.png)  
 
-### Brand Distribution (Interactive)
-[View Interactive Visualization](https://yourusername.github.io/Mobile-Device-Data-Insights-Using-EDA/reports/figure_367.html)
+### Brand Distribution (Interactive Plot)
+[Click here to view interactive figure](https://yourusername.github.io/Mobile-Device-Data-Insights-Using-EDA/reports/figure_367.html)
+
 
 
 
